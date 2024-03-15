@@ -8,7 +8,7 @@ It creates dumps in XML 1.0 standards, the room titles are encrypted with BASE64
 
 [TR] XML Kanal Listesi Betiği
 
-Bu script/betik (MLS - mIRC Betik Dili) ile IRC sunucularındaki kanalların pediyordik olarak bir listesini oluşturur.
+Bu script/betik (MSL - mIRC Betik Dili) ile IRC sunucularındaki kanalların pediyordik olarak bir listesini oluşturur.
 Bu liste WEB sitelerine egtegre etmek veya başka alanlarda kullanmak için yaratılır. 
 script'in dizinindeki "XML_list-temp.xml" dosyası ile ile entegrasyon sağlanır. 
 XML 1.0 standartlarında dökümler oluşturur, oda başlıkları BASE64 ile şifrelenerek renk kodları ve escape karakterler korunur, entegre edilen noktada çözümlenmesi ve çeşitli hatalara neden olmaması için bu yöntem kullanılmıştır. 
